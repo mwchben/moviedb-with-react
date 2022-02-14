@@ -1,7 +1,7 @@
 
 ## Movie DB
 
-This project is tutorial based from https://www.youtube.com/watch?v=6bxWgYfN4CQ&t=5s
+This project is tutorial based from course (https://www.youtube.com/watch?v=6bxWgYfN4CQ&t=5s)
 
 ### This app covers the following:
 - React
